@@ -1,6 +1,6 @@
-# Fabricación de una antena hecha a mano
-
 ![IDIES Antena Poster](IDIES%20Antena%20POSTER.png)
+
+# Fabricación de una antena hecha a mano
 
 **Autores:**  
 - Guillermo Aix García¹  
